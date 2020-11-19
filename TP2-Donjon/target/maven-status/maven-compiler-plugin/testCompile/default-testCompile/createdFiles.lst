@@ -1,0 +1,6 @@
+character/CharacterTest.class
+actions/UseTest.class
+actions/ActionTest.class
+itemsTest/OneArmedBanditTest.class
+actions/AttackTest.class
+actions/MoveTest.class

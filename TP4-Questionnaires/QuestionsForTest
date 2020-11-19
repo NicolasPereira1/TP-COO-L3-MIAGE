@@ -1,0 +1,5 @@
+Numerical;1;Type "1";2;
+YesNo;Yes;Type"Yes";1;
+Text;Solution;Type "Solution";3;
+Multi;one,two,three,four;Write "one", "two", "three" or "four";2;
+Choice;Choice2,Choice4,Choice1,Choice3;The good answer is "Choice2";2;

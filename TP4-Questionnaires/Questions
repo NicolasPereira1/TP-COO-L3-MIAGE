@@ -1,0 +1,5 @@
+Numerical;14;How old is Morty in the TV show "Rick and Morty" ?;2;
+YesNo;Yes;Did John Snow die in the TV show "Game Of Thrones" ?;1;
+Text;Albus Perceval Wulfric Brian Dumbledore;What's the full name of the headmaster of Hogwarts ?;3;
+Multi;Pippin,Merry,Frodon,Sam;Write the name of one hobbit from the Company of the ring ?;2;
+Choice;Qui-Gon Jinn,Yoda,Anakin,Dark Maul;What's the name of Obi-Wan Kenobi's the master ?;2;
